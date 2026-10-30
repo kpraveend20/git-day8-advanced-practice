@@ -2,4 +2,5 @@ Login Module
 
 Username: Admin
 Authentication: Enabled
+Password Validation: Fixed
 Status: Active
