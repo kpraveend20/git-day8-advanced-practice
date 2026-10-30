@@ -1,4 +1,5 @@
 Application: Employee Management System
 Environment: Development
-Version: 1.0
-Status: Active
+Version: 1.1
+Status: Testing
+Database: MySQL
